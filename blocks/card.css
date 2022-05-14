@@ -1,0 +1,52 @@
+.menu__cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 100px;
+}
+
+.card {
+  min-width: 500px;
+  padding: 0;
+}
+
+.card__title {
+  margin-top: 0;
+  margin-bottom: 32px;
+  font-family: "Inter", Arial, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.card__list {
+  list-style-type: none;
+  padding-left: 0;
+  margin: 0;
+  min-width: 300px;
+  max-width: 600px;
+  font-family: "Noto Serif", Times New Roman, sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.card__list-item {
+  display: flex;
+  align-items: flex-end;
+  padding: 0;
+  margin-top: 16px;
+}
+
+.card__list-item:nth-of-type(1) {
+  margin-top: 0;
+}
+
+.card__list-divider {
+  border-bottom: 1px solid #ffffff;
+  margin-left: 5px;
+  margin-right: 5px;
+  display: flex;
+  flex-grow: 1;
+}

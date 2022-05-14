@@ -13,4 +13,4 @@ This is the second project of the Web Development program at Practicum. It was c
 
 ## Plan on improving the project
 
-Add your ideas here :)
+While coding this project, I thought that the recipes section was rather lackluster. I would add a carousel displaying videos of recipes handpicked by the "Practicum Coffee Shop". I also thought that a search function for recipes that are not displayed would be useful here.

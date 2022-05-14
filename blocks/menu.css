@@ -1,0 +1,31 @@
+.menu {
+  background-color: #0a2750;
+  background-image: url(../images/background_menu.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  padding-bottom: 100px;
+}
+
+.menu__title {
+  padding: 100px 0 24px 0;
+  font-family: "Inter", Arial, serif;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+}
+
+.menu__title,
+.menu__subtitle {
+  margin: 0 auto;
+  text-align: center;
+  max-width: 780px;
+}
+
+.menu__subtitle {
+  padding-bottom: 100px;
+  font-family: "Noto Serif", Times New Roman, sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 30px;
+}

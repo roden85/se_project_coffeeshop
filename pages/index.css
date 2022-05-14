@@ -1,0 +1,20 @@
+@import "../vendor/normalize.css";
+@import "../blocks/header.css";
+@import "../blocks/menu.css";
+@import "../blocks/recipes.css";
+@import "../blocks/reservation.css";
+@import "../blocks/about.css";
+@import "../blocks/footer.css";
+@import "../blocks/nav.css";
+@import "../blocks/logo.css";
+@import "../blocks/card.css";
+@import "../blocks/form.css";
+
+.page {
+  min-width: 1100px;
+  max-width: 1600px;
+  margin: 0 auto;
+  font-family: "Inter", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
