@@ -3,7 +3,6 @@
   background-image: url("../images/background_recipes.svg");
   background-repeat: no-repeat;
   background-size: cover;
-  padding-bottom: 215px;
 }
 
 .recipes__title {
@@ -46,5 +45,5 @@
   font-weight: 500;
   font-size: 20px;
   line-height: 30px;
-  margin-bottom: 0;
+  margin-bottom: 215px;
 }

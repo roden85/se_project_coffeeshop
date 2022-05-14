@@ -1,11 +1,3 @@
-.reservation__form {
-  margin-top: 80px;
-  padding-bottom: 120px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
 .form__fieldset {
   display: flex;
   flex-direction: column;
@@ -36,6 +28,8 @@
   line-height: 30px;
   padding-left: 20px;
   padding-right: 20px;
+  background-color: auto;
+  width: inherit;
 }
 
 .form__input::placeholder {
